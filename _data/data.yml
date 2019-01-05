@@ -74,11 +74,17 @@ education:
           - Bullet point
 
 experiences:
+    - role: Teacher Assistant for CSC148 (Intro to Programming Language)
+      time: Jan 2016 – Current
+      company: University Of Toronto, Toronto, Canada
+      details: |
+        My primary role is to teach/help undergrads regarding object oriented programming concepts and algorithms in python.
+        
     - role: Software Engineer
       time: June 2017 – Aug 2017
       company: HSBC, Hyderabad, India
       details: |
-        -Projects
+        - Projects
             - Time Series Analysis - Predictive Analysis on a time series data dealing with programming and equipment issues reported in
               the firm. Thus, helping HSBC to decide the requirement of maintenance staﬀ and the cause of the issue. Tool used: R Studio
             - Value Added Messaging - End to end pipeline from Mainframe till AWS Lambda for sending messages to the customer. We
@@ -89,26 +95,13 @@ experiences:
       time: Jan 2016 – June 2016
       company: BlackRock, Gurugram, India
       details: |
-        -Project
+        - Project
             - Automation tools- Developed an automation tool for testing portfolio management and other Java based software. Thereby
             replacing paid Licensed automation tool like UFT and ALM.
         - Achievements
             - Won Hack-Knight organized by BlackRock for 2017 interns- Created a web-based game application build using a game engine
             - Cleared Regional level and pitched our team idea at the Global level during Hackathon-2017 - Created a centralized web page
               to search for any query related to the firm.
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
